@@ -1,3 +1,38 @@
-* {
-  border:1px solid red;
+body{
+  font-family: 'Lato', sans-serif;
+  color:#2d3c49;
+}
+a{
+  color:#2d3c49;
+}
+.social a{
+  margin-right:1vw;
+}
+.thin{
+  font-weight:100;
+}
+.mutedGray{
+  color:#7d97ad;
+}
+.margin-tp{
+  margin-top:20px;
+}
+.margin-bt{
+  margin-bottom:20px;
+}
+.border-bt{
+  padding-bottom:20px;
+  border-bottom:4px solid #7d97ad;
+}
+.img-center{
+  margin:0 auto;
+  width: 80%;
+}
+.appTitle{
+  font-size: 1.2em;
+}
+@media(max-width: 767px){
+  .text-center-xs{
+    text-align: center;
+  }
 }
