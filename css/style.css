@@ -35,4 +35,11 @@ a{
   .text-center-xs{
     text-align: center;
   }
+  .img-center-xs{
+    margin:2vh auto;
+  }
+  .thin{
+    white-space: nowrap;
+    font-size:22px;
+  }
 }
