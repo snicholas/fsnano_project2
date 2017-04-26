@@ -1,45 +1,46 @@
-body{
-  font-family: 'Lato', sans-serif;
-  color:#2d3c49;
+body {
+  font-family: "Lato", sans-serif;
+  color : #2d3c49;
 }
-a{
-  color:#2d3c49;
+
+a {
+  color: #2d3c49;
 }
-.social a{
-  margin-right:1vw;
+.social a {
+  margin-right: 1vw;
 }
-.thin{
-  font-weight:100;
+.thin {
+  font-weight: 100;
 }
-.mutedGray{
-  color:#7d97ad;
+.mutedGray {
+  color: #7d97ad;
 }
-.margin-tp{
-  margin-top:20px;
+.margin-tp {
+  margin-top: 20px;
 }
-.margin-bt{
+.margin-bt {
   margin-bottom:20px;
 }
-.border-bt{
-  padding-bottom:20px;
-  border-bottom:4px solid #7d97ad;
+.border-bt {
+  padding-bottom: 20px;
+  border-bottom: 4px solid #7d97ad;
 }
-.img-center{
-  margin:0 auto;
+.img-center {
+  margin: 0 auto;
   width: 80%;
 }
-.appTitle{
+.appTitle {
   font-size: 1.2em;
 }
-@media(max-width: 767px){
-  .text-center-xs{
+@media(max-width: 767px) {
+  .text-center-xs {
     text-align: center;
   }
-  .img-center-xs{
-    margin:2vh auto;
+  .img-center-xs {
+    margin: 2vh auto;
   }
-  .thin{
+  .thin {
     white-space: nowrap;
-    font-size:22px;
+    font-size: 22px;
   }
 }
